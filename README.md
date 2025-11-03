@@ -1,6 +1,6 @@
 # CoBRA
 
-Nitro is built with [CoBRA](http://shageman.github.io/cbra.info/). CoBRA stands for "Component Based Rails Architecture". Instead one gigantic Rails application, Nitro componentizes its overall architecture. CoBRA is a code organization and management technique that breaks large applications into small, distinct parts. This allows for better separation of concerns, dependency management, and ultimately, scalability.
+Nitro is built with [CoBRA](https://cbra.info/). CoBRA stands for "Component Based Rails Architecture". Instead one gigantic Rails application, Nitro componentizes its overall architecture. CoBRA is a code organization and management technique that breaks large applications into small, distinct parts. This allows for better separation of concerns, dependency management, and ultimately, scalability.
 
 Every Nitro component can be viewed as an application within itself. Nitro components fall into 4 classifications.
 
@@ -107,6 +107,6 @@ Adding new code into these components should be avoided. Any chance one has to b
 
 ## Resources
 
-- [CoBRA](http://shageman.github.io/cbra.info/)
+- [CoBRA](https://cbra.info/)
 - [Ruby Gems](https://guides.rubygems.org/what-is-a-gem/)
 - [Rails Engines](https://guides.rubyonrails.org/engines.html)
